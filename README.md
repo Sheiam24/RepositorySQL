@@ -13,5 +13,6 @@ In this page you will find all the links to the SQL codes we wrote during the le
 ``` sql
 SELECT *
 FROM Sales.Orders
+```
 
 ![Alt text](image.png)
