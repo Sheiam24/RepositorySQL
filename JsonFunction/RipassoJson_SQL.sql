@@ -155,3 +155,5 @@ END
 EXEC its.sp_insertJson @colore= 'rosa', @animaleNome='pluto'
 
 /* store procedure 2 per 
+
+drop table its.json
